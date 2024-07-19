@@ -1,0 +1,24 @@
+{
+	"name": "Google Album",
+	"description": "Google Album Archive",
+	"type": "certified",
+	"fullscreen": true,
+	"ime_default_softkey_bar": true,
+	"version": "1.0",
+	"start_url": "https://get.google.com/albumarchive",
+	"developer": {
+		"name": "Ivan",
+		"url": "https://get.google.com/albumarchive"
+	},
+	"default_locale": "en-US",
+	"display": "News",
+	"cursor": true,
+	"locales": {
+		"en-US": {
+			"name": "Google Album"
+		}
+	},
+	"icons": {
+		"128": "/picasa.png"
+	}
+}
